@@ -1,0 +1,18 @@
+Requests4J
+Copyright 2025 Requests4J Contributors
+
+This product is inspired by the Python requests library.
+
+This product includes software developed by Kenneth Reitz and contributors
+(https://github.com/psf/requests).
+
+Python requests library:
+Copyright (c) 2017 by Kenneth Reitz
+Licensed under the Apache License, Version 2.0
+https://github.com/psf/requests
+
+This Java implementation is a derivative work that reimagines the
+Python requests library's elegant API for the Java ecosystem.
+
+Third-party dependencies:
+- Gson (https://github.com/google/gson) - Apache License 2.0
