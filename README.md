@@ -29,28 +29,6 @@ Requests4J is ready for the demands of building robust and reliable HTTP-speakin
 - Redirect Handling
 - Elegant API similar to Python's requests
 
-## Installation
-
-### Maven
-
-Add this dependency to your `pom.xml`:
-
-```xml
-<dependency>
-    <groupId>cn.jeyor1337</groupId>
-    <artifactId>requests4j</artifactId>
-    <version>1.0.0</version>
-</dependency>
-```
-
-### Gradle
-
-Add this to your `build.gradle`:
-
-```gradle
-implementation 'cn.jeyor1337:requests4j:1.0.0'
-```
-
 ## Quick Start
 
 ### Making a Request
